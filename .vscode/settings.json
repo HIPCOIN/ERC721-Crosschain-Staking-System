@@ -1,0 +1,10 @@
+{
+  "solidity.remappings": [
+    "@openzeppelin/=node_modules/@openzeppelin/",
+    "erc721a/=node_modules/erc721a/",
+    "operator-filter-registry/=node_modules/operator-filter-registry/",
+    "@arbitrum/=node_modules/@arbitrum/",
+    "arbos-precompiles/=node_modules/arbos-precompiles/"
+  ],
+  "solidity.compileUsingRemoteVersion": "v0.8.4+commit.c7e474f2"
+}
